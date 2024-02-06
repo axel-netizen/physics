@@ -1,1 +1,1 @@
-This folder contains some physical motions that are solved with numerical methods using python
+This folder contains some equations of motions that are solved with numerical methods using python

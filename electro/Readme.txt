@@ -1,1 +1,1 @@
-This section shows the numerical solutions obtained from differential equations in the electrostatics field
+This section shows the numerical solution obtained from Laplace's equation where the file laplace_eq.py contains the code in Python and the electrobars.png file is the solution plot for two metallic bars with constant voltage of 100 V and -100 V.
